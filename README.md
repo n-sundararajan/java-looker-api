@@ -3,7 +3,7 @@
 ## Requirements
 
 Building the API client library requires [Maven](https://maven.apache.org/) to be installed.
-
+Replace proper server name in src/main/java/io/swagger/client/ApiClient.java
 ## Installation
 
 To install the API client library to your local Maven repository, simply execute:
@@ -87,7 +87,7 @@ public class ApiAuthApiExample {
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://cilappxd0093.sys.cigna.com:19999/api/3.0*
+All URIs are relative to *https://xxxxxxx.sys.xxxxxx.xxxx:19999/api/3.0*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------

@@ -52,7 +52,7 @@ import io.swagger.client.auth.OAuth;
 
 public class ApiClient {
 
-    private String basePath = "https://cilappxd0093.sys.cigna.com:19999/api/3.0";
+    private String basePath = "https://xxxxxxx.sys.xxxxxx.xxxx:19999/api/3.0";
     private boolean debugging = false;
     private Map<String, String> defaultHeaderMap = new HashMap<String, String>();
     private String tempFolderPath = null;
@@ -105,7 +105,7 @@ public class ApiClient {
     /**
      * Set base path
      *
-     * @param basePath Base path of the URL (e.g https://cilappxd0093.sys.cigna.com:19999/api/3.0
+     * @param basePath Base path of the URL (e.g https://xxxxxxx.sys.xxxxxx.xxxx:19999/api/3.0
      * @return An instance of OkHttpClient
      */
     public ApiClient setBasePath(String basePath) {
